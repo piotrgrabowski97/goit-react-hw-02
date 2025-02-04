@@ -1,0 +1,13 @@
+.feedbackContainer {
+  margin-top: 30px;
+  padding: 20px;
+  background-color: white;
+  border-radius: 10px;
+  display: inline-block;
+}
+
+.feedbackItem {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 5px 0;
+}
